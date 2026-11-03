@@ -1,0 +1,45 @@
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+a.out
+
+# Executables without extensions
+main
+program
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# Debug and profiling files
+*.dSYM/
+*.stackdump
+*.gcda
+*.gcno
+*.profraw
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# IDE settings
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
